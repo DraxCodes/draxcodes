@@ -1,4 +1,4 @@
-### Hey, my name is Joel - AKA [DraxCodes](website)
+### Hey, my name is Joel - AKA [DraxCodes](https://dev.draxis.work)
 
 ## I'm a Developer & Aspiring Teacher!
 - 💻 My current focus is C#
