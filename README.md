@@ -19,7 +19,7 @@
 <img style="margin-right: 5px" align="left" alt="PGSQL" width="26px" src="https://raw.githubusercontent.com/vscode-icons/vscode-icons/master/icons/file_type_pgsql.svg" />
 <img style="margin-right: 5px" align="left" alt="MongoDB" width="26px" src="https://raw.githubusercontent.com/vscode-icons/vscode-icons/master/icons/file_type_mongo.svg" />
 <img style="margin-right: 5px" align="left" alt="Git" width="26px" src="https://raw.githubusercontent.com/vscode-icons/vscode-icons/master/icons/file_type_git.svg" />
-<img style="margin-right: 5px" align="left" alt="GitHub" width="26px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" />
+<img style="margin-right: 5px" align="left" alt="GitHub" width="26px" src="icons/github.png" />
 <img style="margin-right: 5px" align="left" alt="Terminal" width="26px" src="svgs/cmd-terminal.svg" />
 <img style="margin-right: 5px" align="left" alt="Vim" width="26px" src="https://raw.githubusercontent.com/vscode-icons/vscode-icons/master/icons/file_type_vim.svg" />
 <img style="margin-right: 5px" align="left" alt="Linux" width="26px" src="svgs/linux.svg" />
