@@ -1,6 +1,6 @@
-### Hey, my name is Joel - AKA [DraxCodes](https://dev.draxis.work)
+### Hi there <a href="https://dev.draxis.work"><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"></a>
 
-## I'm a Developer & Aspiring Teacher!
+## I'm Joel, a Developer & Aspiring Teacher!
 - 💻 My current focus is C#
 - 🌱 Currently learning Rustlang
 - 👯 Im looking to work with other OSS developers
