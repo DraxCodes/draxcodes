@@ -20,9 +20,10 @@
 <img style="margin-right: 5px" align="left" alt="MongoDB" width="26px" src="https://raw.githubusercontent.com/vscode-icons/vscode-icons/master/icons/file_type_mongo.svg" />
 <img style="margin-right: 5px" align="left" alt="Git" width="26px" src="https://raw.githubusercontent.com/vscode-icons/vscode-icons/master/icons/file_type_git.svg" />
 <img style="margin-right: 5px" align="left" alt="GitHub" width="26px" src="icons/github.png" />
-<img style="margin-right: 5px" align="left" alt="Terminal" width="26px" src="icons/cmd-terminal.svg" />
+<img style="margin-right: 5px" align="left" alt="Terminal" width="26px" src="icons/terminal.png" />
 <img style="margin-right: 5px" align="left" alt="Vim" width="26px" src="https://raw.githubusercontent.com/vscode-icons/vscode-icons/master/icons/file_type_vim.svg" />
-<img style="margin-right: 5px" align="left" alt="Linux" width="26px" src="icons/linux.svg" />
+<img style="margin-right: 5px" align="left" alt="Linux" width="26px" src="icons/tux.png" />
+<img style="margin-right: 5px" align="left" alt="Arch" width="26px" src="icons/arch.png" />
 
 <br><br>
 
