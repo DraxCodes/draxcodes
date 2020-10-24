@@ -26,5 +26,11 @@
 <img style="margin-right: 5px" align="left" alt="Arch" width="26px" src="icons/arch.png" />
 
 <br><br>
+### Connect With Me:
+<a href="https://twitter.com/codesdrax"><img style="margin-right: 5px" align="left" alt="twitter" width="26px" src="icons/twitter-round-color.svg" /></a>
+<a href="https://www.linkedin.com/in/joel-parkinson-893422111/"><img style="margin-right: 5px" align="left" alt="Linkedin" width="26px" src="icons/linkedin-round-color.svg" /></a>
+<a href="https://www.twitch.tv/draxcodes"><img style="margin-right: 5px" align="left" alt="twitch" width="26px" src="icons/twitch-round-color.svg" /></a>
+<a href="https://www.youtube.com/channel/UCUbDgS7ZKUger4MIc28GzFQ"><img style="margin-right: 5px" align="left" alt="youtube" width="26px" src="icons/youtube-round-color.svg" /></a>
+<br><br>
 
 <img width="420" src="https://github-readme-stats.vercel.app/api?username=draxcodes&theme=radical&show_icons=true&hide_border=true&include_all_commits=true&custom_title=My%20Github%20Stats"/><img width="350" src="https://github-readme-stats.vercel.app/api/top-langs/?username=draxcodes&layout=compact&theme=radical&hide_border=true"/>
