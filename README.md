@@ -7,30 +7,30 @@
 - ⚡ My goal for 2020 was to help teach more new developers
 
 ### Languages & Tools:
-<img style="margin-right: 5px" align="left" alt="VCSharp" width="26px" src="https://raw.githubusercontent.com/vscode-icons/vscode-icons/master/icons/file_type_csharp2.svg" />
-<img style="margin-right: 5px" align="left" alt="Rustlang" width="26px" src="https://raw.githubusercontent.com/vscode-icons/vscode-icons/master/icons/file_type_rust.svg" />
-<img style="margin-right: 5px" align="left" alt="Visual Studio Code" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />
-<img style="margin-right: 5px" align="left" alt="HTML5" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" />
-<img style="margin-right: 5px" align="left" alt="CSS3" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" />
-<img style="margin-right: 5px" align="left" alt="JavaScript" width="26px" src="https://raw.githubusercontent.com/vscode-icons/vscode-icons/master/icons/file_type_js.svg" />
-<img style="margin-right: 5px" align="left" alt="GraphQL" width="26px" src="https://raw.githubusercontent.com/vscode-icons/vscode-icons/master/icons/file_type_graphql.svg" />
-<img style="margin-right: 5px" align="left" alt="Node.js" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png" />
-<img style="margin-right: 5px" align="left" alt="Deno" width="26px" src="icons/deno.svg" />
-<img style="margin-right: 5px" align="left" alt="PGSQL" width="26px" src="https://raw.githubusercontent.com/vscode-icons/vscode-icons/master/icons/file_type_pgsql.svg" />
-<img style="margin-right: 5px" align="left" alt="MongoDB" width="26px" src="https://raw.githubusercontent.com/vscode-icons/vscode-icons/master/icons/file_type_mongo.svg" />
-<img style="margin-right: 5px" align="left" alt="Git" width="26px" src="https://raw.githubusercontent.com/vscode-icons/vscode-icons/master/icons/file_type_git.svg" />
-<img style="margin-right: 5px" align="left" alt="GitHub" width="26px" src="icons/github.png" />
-<img style="margin-right: 5px" align="left" alt="Terminal" width="26px" src="icons/terminal.png" />
-<img style="margin-right: 5px" align="left" alt="Vim" width="26px" src="https://raw.githubusercontent.com/vscode-icons/vscode-icons/master/icons/file_type_vim.svg" />
-<img style="margin-right: 5px" align="left" alt="Linux" width="26px" src="icons/tux.png" />
-<img style="margin-right: 5px" align="left" alt="Arch" width="26px" src="icons/arch.png" />
+<img style="margin-right: 5px" align="left" alt="VCSharp" width="40px" src="https://raw.githubusercontent.com/vscode-icons/vscode-icons/master/icons/file_type_csharp2.svg" />
+<img style="margin-right: 5px" align="left" alt="Rustlang" width="40px" src="https://raw.githubusercontent.com/vscode-icons/vscode-icons/master/icons/file_type_rust.svg" />
+<img style="margin-right: 5px" align="left" alt="Visual Studio Code" width="40px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />
+<img style="margin-right: 5px" align="left" alt="HTML5" width="40px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" />
+<img style="margin-right: 5px" align="left" alt="CSS3" width="40px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" />
+<img style="margin-right: 5px" align="left" alt="JavaScript" width="40px" src="https://raw.githubusercontent.com/vscode-icons/vscode-icons/master/icons/file_type_js.svg" />
+<img style="margin-right: 5px" align="left" alt="GraphQL" width="40px" src="https://raw.githubusercontent.com/vscode-icons/vscode-icons/master/icons/file_type_graphql.svg" />
+<img style="margin-right: 5px" align="left" alt="Node.js" width="40px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png" />
+<img style="margin-right: 5px" align="left" alt="Deno" width="40px" src="icons/deno.svg" />
+<img style="margin-right: 5px" align="left" alt="PGSQL" width="40px" src="https://raw.githubusercontent.com/vscode-icons/vscode-icons/master/icons/file_type_pgsql.svg" />
+<img style="margin-right: 5px" align="left" alt="MongoDB" width="40px" src="https://raw.githubusercontent.com/vscode-icons/vscode-icons/master/icons/file_type_mongo.svg" />
+<img style="margin-right: 5px" align="left" alt="Git" width="40px" src="https://raw.githubusercontent.com/vscode-icons/vscode-icons/master/icons/file_type_git.svg" />
+<img style="margin-right: 5px" align="left" alt="GitHub" width="40px" src="icons/github.png" />
+<img style="margin-right: 5px" align="left" alt="Terminal" width="40px" src="icons/terminal.png" />
+<img style="margin-right: 5px" align="left" alt="Vim" width="40px" src="https://raw.githubusercontent.com/vscode-icons/vscode-icons/master/icons/file_type_vim.svg" />
+<img style="margin-right: 5px" align="left" alt="Linux" width="40px" src="icons/tux.png" />
+<img style="margin-right: 5px" align="left" alt="Arch" width="40px" src="icons/arch.png" />
 
 <br><br>
 ### Connect With Me:
-<a href="https://twitter.com/codesdrax"><img style="margin-right: 5px" align="left" alt="twitter" width="26px" src="icons/twitter-round-color.svg" /></a>
-<a href="https://www.linkedin.com/in/joel-parkinson-893422111/"><img style="margin-right: 5px" align="left" alt="Linkedin" width="26px" src="icons/linkedin-round-color.svg" /></a>
-<a href="https://www.twitch.tv/draxcodes"><img style="margin-right: 5px" align="left" alt="twitch" width="26px" src="icons/twitch-round-color.svg" /></a>
-<a href="https://www.youtube.com/channel/UCUbDgS7ZKUger4MIc28GzFQ"><img style="margin-right: 5px" align="left" alt="youtube" width="26px" src="icons/youtube-round-color.svg" /></a>
+<a href="https://twitter.com/codesdrax"><img style="margin-right: 5px" align="left" alt="twitter" width="40px" src="icons/twitter-round-color.svg" /></a>
+<a href="https://www.linkedin.com/in/joel-parkinson-893422111/"><img style="margin-right: 5px" align="left" alt="Linkedin" width="40px" src="icons/linkedin-round-color.svg" /></a>
+<a href="https://www.twitch.tv/draxcodes"><img style="margin-right: 5px" align="left" alt="twitch" width="40px" src="icons/twitch-round-color.svg" /></a>
+<a href="https://www.youtube.com/channel/UCUbDgS7ZKUger4MIc28GzFQ"><img style="margin-right: 5px" align="left" alt="youtube" width="40px" src="icons/youtube-round-color.svg" /></a>
 <br><br>
 
 <img width="420" src="https://github-readme-stats.vercel.app/api?username=draxcodes&theme=radical&show_icons=true&hide_border=true&include_all_commits=true&custom_title=My%20Github%20Stats"/><img width="350" src="https://github-readme-stats.vercel.app/api/top-langs/?username=draxcodes&layout=compact&theme=radical&hide_border=true"/>
