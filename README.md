@@ -1,10 +1,11 @@
 ### Hi there <a href="https://dev.draxis.work"><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"></a>
 
-## I'm Joel!
+## Welcome to my Github Profile, I'm Joel!
 - 💻 My current focus is C#. (.Net Core/5.0/6.0)
 - 🌱 Currently learning my way through Blazor.
 - 👯 Im always looking to work with other OSS developers.
 - ⚡ My goal for 2021 is to keep pushing forward and help others do the same.
+- 📌 Checkout my pinned repositories for some work I am very proud of.
 
 ### Languages & Tools:
 <img style="margin-right: 5px" align="left" alt="VCSharp" width="28" src="https://raw.githubusercontent.com/vscode-icons/vscode-icons/master/icons/file_type_csharp2.svg" />
