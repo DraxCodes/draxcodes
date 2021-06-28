@@ -8,30 +8,25 @@
 - 📌 Checkout my pinned repositories for some work I am very proud of.
 
 ### Languages & Tools:
-<img style="margin-right: 5px" align="left" alt="VCSharp" width="28" src="https://raw.githubusercontent.com/vscode-icons/vscode-icons/master/icons/file_type_csharp2.svg" />
-<img style="margin-right: 5px" align="left" alt="Rustlang" width="28px" src="https://raw.githubusercontent.com/vscode-icons/vscode-icons/master/icons/file_type_rust.svg" />
-<img style="margin-right: 5px" align="left" alt="Visual Studio Code" width="28px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />
-<img style="margin-right: 5px" align="left" alt="HTML5" width="28px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" />
-<img style="margin-right: 5px" align="left" alt="CSS3" width="28px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" />
-<img style="margin-right: 5px" align="left" alt="JavaScript" width="28px" src="https://raw.githubusercontent.com/vscode-icons/vscode-icons/master/icons/file_type_js.svg" />
-<img style="margin-right: 5px" align="left" alt="GraphQL" width="28px" src="https://raw.githubusercontent.com/vscode-icons/vscode-icons/master/icons/file_type_graphql.svg" />
-<img style="margin-right: 5px" align="left" alt="Node.js" width="28px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png" />
-<img style="margin-right: 5px" align="left" alt="Deno" width="28px" src="icons/deno.svg" />
-<img style="margin-right: 5px" align="left" alt="PGSQL" width="28px" src="https://raw.githubusercontent.com/vscode-icons/vscode-icons/master/icons/file_type_pgsql.svg" />
-<img style="margin-right: 5px" align="left" alt="MongoDB" width="28px" src="https://raw.githubusercontent.com/vscode-icons/vscode-icons/master/icons/file_type_mongo.svg" />
-<img style="margin-right: 5px" align="left" alt="Git" width="28px" src="https://raw.githubusercontent.com/vscode-icons/vscode-icons/master/icons/file_type_git.svg" />
-<img style="margin-right: 5px" align="left" alt="GitHub" width="28px" src="icons/github.png" />
-<img style="margin-right: 5px" align="left" alt="Terminal" width="28px" src="icons/terminal.png" />
-<img style="margin-right: 5px" align="left" alt="Vim" width="28px" src="https://raw.githubusercontent.com/vscode-icons/vscode-icons/master/icons/file_type_vim.svg" />
-<img style="margin-right: 5px" align="left" alt="Linux" width="28px" src="icons/tux.png" />
-<img style="margin-right: 5px" align="left" alt="Arch" width="28px" src="icons/arch.png" />
+[![Generic badge](https://img.shields.io/static/v1?label=.Net&message=Core/5/6&color=blueviolet&style=for-the-badge&logo=csharp)](https://shields.io/) 
+[![Generic badge](https://img.shields.io/static/v1?label=Blazor&message=WASM/Server&color=blueviolet&style=for-the-badge&logo=blazor)](https://shields.io/)
+[![Generic badge](https://img.shields.io/static/v1?label=Rust&message=Backend/WASM&color=b7410e&style=for-the-badge&logo=rust)](https://shields.io/) 
+[![Generic badge](https://img.shields.io/static/v1?label=Linux&message=Arch/Debian&color=skyblue&style=for-the-badge&logo=archlinux)](https://shields.io/) 
+[![Generic badge](https://img.shields.io/static/v1?label=API&message=GraphQL&color=hotpink&style=for-the-badge&logo=graphql)](https://shields.io/) 
+[![Generic badge](https://img.shields.io/static/v1?label=NoSQL&message=MongoDB&color=4db33b&style=for-the-badge&logo=mongodb)](https://shields.io/) 
+[![Generic badge](https://img.shields.io/static/v1?label=html&message=v5&color=red&style=for-the-badge&logo=html5)](https://shields.io/) 
+[![Generic badge](https://img.shields.io/static/v1?label=CSS&message=v3&color=blue&style=for-the-badge&logo=css3)](https://shields.io/) 
+[![Generic badge](https://img.shields.io/static/v1?label=%E2%A0%80&message=Javascript&color=yellow&style=for-the-badge&logo=javascript)](https://shields.io/) 
+[![Generic badge](https://img.shields.io/static/v1?label=%E2%A0%80&message=Git&color=orange&style=for-the-badge&logo=git)](https://shields.io/) 
+[![Generic badge](https://img.shields.io/static/v1?label=%E2%A0%80&message=Github&color=black&style=for-the-badge&logo=github)](https://shields.io/) 
+[![Generic badge](https://img.shields.io/static/v1?label=%E2%A0%80&message=Terminal&color=lightgray&style=for-the-badge&logo=windowsterminal)](https://shields.io/) 
+<hr>
 
-<br><br>
 ### Connect With Me:
-<a href="https://twitter.com/codesdrax"><img style="margin-right: 5px" align="left" alt="twitter" width="28px" src="icons/twitter-round-color.svg" /></a>
-<a href="https://www.linkedin.com/in/joel-parkinson-893422111/"><img style="margin-right: 5px" align="left" alt="Linkedin" width="28px" src="icons/linkedin-round-color.svg" /></a>
-<a href="https://www.twitch.tv/draxcodes"><img style="margin-right: 5px" align="left" alt="twitch" width="28px" src="icons/twitch-round-color.svg" /></a>
-<a href="https://www.youtube.com/channel/UCUbDgS7ZKUger4MIc28GzFQ"><img style="margin-right: 5px" align="left" alt="youtube" width="28px" src="icons/youtube-round-color.svg" /></a>
-<br><br>
+[![Generic badge](https://img.shields.io/static/v1?label=Twitter&message=Draxcodes&color=1DA1F2&style=for-the-badge&logo=twitter)](https://twitter.com/codesdrax) 
+[![Generic badge](https://img.shields.io/static/v1?label=LinkedIn&message=Joel%20Parkinson&color=blue&style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/joel-parkinson-893422111/) 
+[![Generic badge](https://img.shields.io/static/v1?label=Twitch.Tv&message=Draxcodes&color=purple&style=for-the-badge&logo=twitch)](https://www.twitch.tv/draxcodes) 
+[![Generic badge](https://img.shields.io/static/v1?label=Youtube&message=Draxcodes&color=red&style=for-the-badge&logo=youtube)](https://www.youtube.com/channel/UCUbDgS7ZKUger4MIc28GzFQ) 
+<hr>
 
 <img width="420" src="https://github-readme-stats.vercel.app/api?username=draxcodes&theme=radical&show_icons=true&hide_border=true&include_all_commits=true&custom_title=My%20Github%20Stats"/><img width="350" src="https://github-readme-stats.vercel.app/api/top-langs/?username=draxcodes&layout=compact&theme=radical&hide_border=true"/>
