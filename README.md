@@ -27,6 +27,5 @@
 [![Generic badge](https://img.shields.io/static/v1?label=LinkedIn&message=Joel%20Parkinson&color=blue&style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/joel-parkinson-893422111/) 
 [![Generic badge](https://img.shields.io/static/v1?label=Twitch.Tv&message=Draxcodes&color=purple&style=for-the-badge&logo=twitch)](https://www.twitch.tv/draxcodes) 
 [![Generic badge](https://img.shields.io/static/v1?label=Youtube&message=Draxcodes&color=red&style=for-the-badge&logo=youtube)](https://www.youtube.com/channel/UCUbDgS7ZKUger4MIc28GzFQ) 
-<hr>
 
-<img width="420" src="https://github-readme-stats.vercel.app/api?username=draxcodes&theme=radical&show_icons=true&hide_border=true&include_all_commits=true&custom_title=My%20Github%20Stats"/><img width="350" src="https://github-readme-stats.vercel.app/api/top-langs/?username=draxcodes&layout=compact&theme=radical&hide_border=true"/>
+<img src="https://raw.githubusercontent.com/DraxCodes/draxcodes/master/github-metrics.svg" alt="Metrics" width="100%">
