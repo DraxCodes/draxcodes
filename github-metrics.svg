@@ -417,7 +417,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>Thraka/SadConsole</span>
-                                        <span>starred 6 hours ago</span>
+                                        <span>starred 7 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">A .NET ascii/ansi console engine written in C# for MonoGame and XNA. Create your own text roguelike (or other) games!</div>
@@ -924,7 +924,7 @@
                                 <div class="title">
                                     <span class="prefix">Super</span>
                                     developer
-                                    <span class="gh">ranked 255k out of 83m users</span>
+                                    <span class="gh">ranked 256k out of 83m users</span>
                                 </div>
                                 <div class="text">Published 67 public repositories</div>
                             </div>
@@ -1421,7 +1421,7 @@
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 11 Jan 2022, 05:09:54 (timezone Europe/London) with lowlighter/metrics@3.17.0</span>
+                <span>Last updated 11 Jan 2022, 06:10:34 (timezone Europe/London) with lowlighter/metrics@3.17.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
