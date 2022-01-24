@@ -471,7 +471,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>Thraka/SadConsole</span>
-                                        <span>starred 12 days ago</span>
+                                        <span>starred 13 days ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">A .NET ascii/ansi console engine written in C# for MonoGame and XNA. Create your own text roguelike (or other) games!</div>
@@ -524,7 +524,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>ianagbip1oti/mat-che</span>
-                                        <span>starred 14 days ago</span>
+                                        <span>starred 15 days ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">Anonymous Chat. No History.</div>
@@ -1191,7 +1191,7 @@
                                 <div class="title">
                                     <span class="prefix"></span>
                                     Influencer
-                                    <span class="gh">ranked 93.7k out of 84m users</span>
+                                    <span class="gh">ranked 93.8k out of 84m users</span>
                                 </div>
                                 <div class="text">Followed by 70 users</div>
                             </div>
@@ -1383,7 +1383,7 @@
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 23 Jan 2022, 23:07:35 (timezone Europe/London) with lowlighter/metrics@3.18.0</span>
+                <span>Last updated 24 Jan 2022, 00:28:11 (timezone Europe/London) with lowlighter/metrics@3.18.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
