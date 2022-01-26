@@ -471,7 +471,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>Thraka/SadConsole</span>
-                                        <span>starred 14 days ago</span>
+                                        <span>starred 15 days ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">A .NET ascii/ansi console engine written in C# for MonoGame and XNA. Create your own text roguelike (or other) games!</div>
@@ -524,7 +524,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>ianagbip1oti/mat-che</span>
-                                        <span>starred 16 days ago</span>
+                                        <span>starred 17 days ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">Anonymous Chat. No History.</div>
@@ -1370,7 +1370,7 @@
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 25 Jan 2022, 23:09:23 (timezone Europe/London) with lowlighter/metrics@3.18.0</span>
+                <span>Last updated 26 Jan 2022, 00:32:32 (timezone Europe/London) with lowlighter/metrics@3.18.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
