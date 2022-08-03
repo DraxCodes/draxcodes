@@ -1,5 +1,5 @@
 ## Welcome to my Github Profile, I'm Joel!
-- 💻 My current focus is C#. (.Net 6)
+- 💻 My current focus is C# & Sveltekit
 - 🌱 Currently bringing myself back up to speed after a while away from coding.
 - 👯 Im always looking to work with other OSS developers.
 - ⚡ My goal for 2022 is to keep pushing forward and help others do the same.
