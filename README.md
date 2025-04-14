@@ -2,7 +2,7 @@
 - 💻 My current focus is C# & Sveltekit
 - 🌱 Currently bringing myself back up to speed after a while away from coding.
 - 👯 Im always looking to work with other OSS developers.
-- ⚡ My goal for 2024 is to keep pushing forward and help others do the same.
+- ⚡ My goal for 2025 is to keep pushing forward and help others do the same.
 - 📌 Checkout my pinned repositories for some work I am very proud of.
 
 ### I'm Draxis#0001, Find Me Here
